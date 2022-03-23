@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @fredbelliard
-- 👀 I’m interested in open publishing, opens science and pen source software 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in open acccess publishing, open science and open source software 
+- 🌱 I’m currently learning how to use GitHub and HackMD
+- 💞️ I’m looking to collaborate on non-traditional open publication outputs. 
+- 📫 How to reach me @fredbelliard
 
 <!---
 fredbelliard/fredbelliard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
